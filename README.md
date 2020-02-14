@@ -1,0 +1,2 @@
+# Mikrokontrollerek
+Mikrokontrollerek órai feladatok
